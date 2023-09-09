@@ -1,0 +1,9 @@
+
+git init : inica una carpeta vacía en mi proyecto, está oculta
+
+git status: consulta cómo se encuentra el proyecto en ese momento
+
+Carpetas vacías: git no no realiza un seguimiento de las carpetas vacías
+.gitkeep para realizar el seguimiento
+
+.gitignore: para ignorar archivos o carpetas
